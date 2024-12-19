@@ -1,0 +1,21 @@
+.blueColor {
+  color: #03528e;
+}
+
+.para {
+  font-size: 14px;
+  font-weight: 400;
+  color: #62646a;
+}
+
+.bg {
+  border-radius: 12px;
+  background-color: #0000000d;
+  border: 1px solid #0000000d;
+}
+
+.btn {
+  color: #dd730a;
+  font-size: 16px;
+  font-weight: 700;
+}

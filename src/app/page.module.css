@@ -1,0 +1,69 @@
+.logoSize {
+  width: 179.18px;
+  height: 31.04px;
+}
+
+.searchInput {
+  width: 30rem;
+}
+
+.categories {
+  font-size: 1.05rem;
+}
+
+.loginBtn {
+  border: 1px solid #03528e;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+
+.registerBtn {
+  background-color: #dd730a;
+  color: white;
+  border: none;
+}
+
+/* utilities */
+.greyBottomBorder {
+  border-bottom: 1px solid #94949480;
+}
+.greyFullBorder {
+  border: 1px solid #94949480;
+}
+.blueColor {
+  color: #03528e;
+}
+.color {
+  color: #dd730a;
+}
+.homeBtn {
+  color: #03528e;
+  border-right: 1px solid #03528e;
+  background-color: #dce3e9;
+}
+
+.icon {
+  font-size: 48px;
+  background-color: red;
+}
+
+.navigateSide {
+  height: 40rem;
+  box-shadow: 0px 0px 2px black;
+  width: 90%;
+}
+.widthBox1 {
+  width: 24%;
+}
+.widthBox2 {
+  width: 78%;
+  padding: 0px 20px;
+}
+/* for landing page content */
+
+/* work place in app design */
+
+.imgBorderRadius {
+  border-radius: 30px;
+  border-color: none;
+}
