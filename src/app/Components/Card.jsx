@@ -7,7 +7,7 @@ const Card = () => {
       {/* Card image */}
       <figure>
         <Image
-          src="/cardImg.jpg"
+          src="/cardImg.png"
           alt="card image"
           width={304.36}
           height={330}
